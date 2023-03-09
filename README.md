@@ -6,7 +6,7 @@
 - 🧩 I love coding, learning English, listening to music, traveling, and talking with everyone.
 
 ### Technical Skills 📍
-#### Database 🎉
+
 <div class="col">
     <img src="https://img.icons8.com/color/48/null/postgreesql.png"/>
     <img src="https://img.icons8.com/fluency/48/null/mysql-logo.png"/>
