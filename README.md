@@ -17,6 +17,7 @@
 <div class="col">
     <img src="https://img.icons8.com/color/48/null/python--v1.png"/>
     <img src="https://img.icons8.com/color/48/null/c-sharp-logo.png"/>
+    <img src="https://img.icons8.com/color/48/null/c-programming.png"/>
     <img src="https://img.icons8.com/officel/40/null/php-logo.png"/>
     <img src="https://img.icons8.com/fluency/48/null/ruby-programming-language.png"/>
     <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>
