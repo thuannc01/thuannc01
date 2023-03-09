@@ -18,11 +18,11 @@
 
 <div class="col">
     <img src="https://img.icons8.com/color/48/null/python--v1.png"/>
-    <img src="https://img.icons8.com/color/48/null/c-programming.png"/>
     <img src="https://img.icons8.com/color/48/null/c-sharp-logo.png"/>
     <img src="https://img.icons8.com/officel/40/null/php-logo.png"/>
     <img src="https://img.icons8.com/fluency/48/null/ruby-programming-language.png"/>
     <img src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png"/>
+    <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
 </div>
 
 #### Front-end 🎉
@@ -33,7 +33,18 @@
     <img src="https://img.icons8.com/color/48/null/sass.png"/>
     <img src="https://img.icons8.com/color/48/null/bootstrap.png"/>
     <img src="https://img.icons8.com/color/48/null/tailwindcss.png"/>
+    <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
     <img src="https://img.icons8.com/color/48/null/vue-js.png"/>
+</div>
+
+#### Tools 🎉
+
+<div class="col">
+    <img src="https://img.icons8.com/fluency/48/null/docker.png"/>
+    <img src="https://img.icons8.com/external-those-icons-lineal-those-icons/48/null/external-diagram-charts-infographic-those-icons-lineal-those-icons.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"/>
+    <img src="https://img.icons8.com/color/48/null/figma--v1.png"/>
+    <img src="https://img.icons8.com/ios/50/null/github--v1.png"/>
 </div>
 <br />
 
