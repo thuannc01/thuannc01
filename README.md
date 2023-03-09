@@ -1,6 +1,6 @@
-## Hi there, I'm Thuan Nguyen 🖐️
+### Hi there, I'm Thuan Nguyen 🖐️
 
-### I'm a Web Developer, Programmer and Freelancer 📌
+## I'm a Web Developer, Programmer and Freelancer 📌
 
 - 💡 I’m currently learning everything. 
 - 🧩 I love coding, learning English, listening to music, traveling, and talking with everyone.
