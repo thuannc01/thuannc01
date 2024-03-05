@@ -9,7 +9,7 @@
 
 <div class="col">
     <img src="https://img.icons8.com/color/48/null/postgreesql.png"/>
-    <img src="https://icons8.com/icon/8ljTDYUEydbJ/oracle-pl-sql"/>
+    <img src="https://icons8.com/icon/39913/oracle-logo"/>
     <img src="https://img.icons8.com/fluency/48/null/mysql-logo.png"/>
     <img src="https://img.icons8.com/color/48/null/microsoft-sql-server.png"/>
     <img src="https://img.icons8.com/color/48/null/mongodb.png"/>
