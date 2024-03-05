@@ -8,11 +8,11 @@
 ### Technical Skills 📍
 
 <div class="col">
-    <img width="48" height="48" src="https://img.icons8.com/color/48/null/postgreesql.png"/><br>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png"/><br>
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/null/mysql-logo.png"/><br>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/null/microsoft-sql-server.png"/><br>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/null/mongodb.png"/><br>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/null/postgreesql.png"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/oracle-logo.png"/>
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/null/mysql-logo.png"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/null/microsoft-sql-server.png"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/null/mongodb.png"/>
 </div>
 
 <div class="col">
