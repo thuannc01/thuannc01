@@ -12,5 +12,3 @@
 - ASP.NET
 - SQL
 - Python
-
-## Explore my world
