@@ -1,14 +1,11 @@
 ### Hi there, I'm Thuan Nguyen
 
-### I'm a Web Developer
-
-- Lifelong learning.
-- I enjoy coding, learning English, listening to music, traveling, and connecting with people.
+### I'm a full-stack web developer
 
 ### Top Skills
-
-- PHP Laravel framework
-- Vue.js framework
+- Next.js
+- Nest.js
+- Vue.js
+- Laravel
 - ASP.NET
 - SQL
-- Python
